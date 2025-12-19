@@ -12,7 +12,7 @@ This system is crucial in workplaces where manual labor or physical activity is 
 
 You can watch the detailed explanation of the **Workers Pose Strain Warning System** in the video below:
 
-[Watch the video](https://github.com/your-username/your-repository-name/raw/main/your-video-file.mp4)
+[![Watch the video](https://img.youtube.com/vi/q4xZ4ZJVzdc/0.jpg)](https://youtube.com/shorts/q4xZ4ZJVzdc?feature=share)
 
 ## Tools Used
 - **YOLO (You Only Look Once)**: A real-time object detection model, used for detecting PPE violations (e.g., missing hardhat or safety vest) and tracking workers.
