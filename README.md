@@ -30,5 +30,5 @@ This system is crucial in workplaces where manual labor or physical activity is 
 
 For any assistance or help with similar projects, feel free to **[reach out to me here](https://ammarali.lovable.app)**. I am open to working on new projects and can offer tailored solutions for your automation needs.
 
-## Watch the Video
+
 
